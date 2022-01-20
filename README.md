@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @DestyDe
+- 👀 I’m interested in C# and Unity
+- 🌱 I’m currently learning C#
