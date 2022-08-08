@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @DestyDe
-- 👀 I’m interested in C# and Python (pygame)
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in C# and Unity
+- 🌱 I’m currently learning Unity/C#
